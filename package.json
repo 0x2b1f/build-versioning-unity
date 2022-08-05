@@ -1,0 +1,12 @@
+{
+  "name": "com.0x2b1f.buildversioning",
+  "version": "0.0.1",
+  "displayName": "Build Versioning",
+  "description": "Automated build versioning tool for Unity",
+  "unity": "2019.1",
+  "author": {
+    "name": "0x2b1f",
+    "email": "0@0x2b1f.xyz",
+    "url": "https://www.0x2b1f.xyz"
+  }
+}
